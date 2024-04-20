@@ -28,5 +28,3 @@ python compilador.py archivo_entrada.txt
 ```
 
 ---
-
-Si necesitas incluir más detalles sobre cómo usar el compilador o alguna otra información específica, no dudes en agregarla.
